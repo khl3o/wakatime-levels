@@ -2,7 +2,7 @@
 
 Use the Wakatime API to create a "RPG like" badge of your coding activity
 
-![2021](README/img/2021.png "2021")
+![2021](README/img/badge-2021.png "2021")
 
 # Install
 
