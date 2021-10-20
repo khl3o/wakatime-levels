@@ -2,7 +2,7 @@
 
 include('fetch.php');
 
-$year = getData( date("Y") );
+$year = getData( $GLOBALS['year'] );
 
 function getAvatar ($level) {
 
